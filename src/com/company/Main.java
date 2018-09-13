@@ -18,7 +18,6 @@ public class Main {
 
 
         //If user chooses add
-
             if (kbOption.equals("add")) {
                 System.out.println("Please enter a number");
                 int a = (int) kbInput.nextDouble();
